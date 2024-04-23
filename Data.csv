@@ -1,0 +1,29 @@
+type,sourceId,transferId,source,target,amount,description,targetBank,merchantId,sourceChannel,sourceIdt,createDate
+,null,null,null,null,null,null,null,null,null,null,null
+COLLECTIONCOLLECTIONCOLLECTIONCOLLECTION,null,null,null,null,null,null,null,null,null,null,null
+null,null,null,null,null,null,null,null,null,null,null,null
+PRUEBA,null,null,null,null,null,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded4082,null,null,null,null,null,null,null,null,null,null
+COLLECTION,,null,null,null,null,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,,null,null,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,null,null,null,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001$573003004001$573003004001$57300300400,null,null,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,,null,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfVwcc7vHUcnYpJcba8e,null,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,null,null,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,"""""",null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,null,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,-76,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,0,null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,"""4err""",null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,"""$%66""",null,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfVwcc7vHUcnYpJcba8ewcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfVwcc7vHUcnYpJcba8,null,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,Transferencia pago de compra.,AG1525AXCS2,null,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,Transferencia pago de compra.,AG1525AXCS,AG1525AXCS2AG1525AXCS2AG1525AXCS2AG1525AXCS2AG1525A,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,Transferencia pago de compra.,AG1525AXCS,AG1525AXCS,,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,Transferencia pago de compra.,AG1525AXCS,AG1525AXCS,AG1525AXCS2AG43RRELDLDLFKDKKDKDKFKFKK,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,Transferencia pago de compra.,AG1525AXCS,AG1525AXCS,PRUEBA,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,Transferencia pago de compra.,AG1525AXCS,AG1525AXCS,null,null,null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,Transferencia pago de compra.,AG1525AXCS,AG1525AXCS,POS,"""""",null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,Transferencia pago de compra.,AG1525AXCS,AG1525AXCS,POS,"""d0508e8b-3065-467f-990c-dc1b2aea89442""",null
+COLLECTION,65c242c3-1ea6-45c4-a71f-a41538ded408,d0508e8b-3065-467f-990c-dc1b2aea8944,$573003004001,wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV,100,Transferencia pago de compra.,AG1525AXCS,AG1525AXCS,POS,null,null
